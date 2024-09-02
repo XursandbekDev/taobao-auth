@@ -137,7 +137,7 @@ const AuthPage = () => {
                         </>
                     )}
                     <button className="register" type="submit">
-                        {isLogin ? "Kirish" : "Ro'yxatdan o'tish"}
+                        {isLogin ? "Kirish" : "Kirish"}
                     </button>
                 </form>
             </div>
